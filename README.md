@@ -297,11 +297,7 @@ Para rodar o servidor localmente você precisa ter instalado as seguintes ferram
 
 ```
 
-  
-
 git clone https://github.com/JulioCout/IAB-Backend-Demo
-
-  
 
 ```
 
@@ -313,11 +309,7 @@ git clone https://github.com/JulioCout/IAB-Backend-Demo
 
 ```
 
-  
-
 python -m venv venv
-
-  
 
 ```
 
@@ -329,11 +321,7 @@ python -m venv venv
 
 ```
 
-  
-
 venv\Scripts\activate
-
-  
 
 ```
 
@@ -345,11 +333,7 @@ venv\Scripts\activate
 
 ```
 
-  
-
 pip install -r requirements.txt
-
-  
 
 ```
 
@@ -362,11 +346,7 @@ pip install -r requirements.txt
 
 ```
 
-  
-
 python manage.py runserver
-
-  
 
 ```
 
@@ -381,8 +361,6 @@ python manage.py runserver
 ```
 
 http://127.0.0.1:8000
-
-  
 
 ```
 
